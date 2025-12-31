@@ -1,0 +1,28 @@
+; Engine configuration file.
+; It's best edited using the editor UI and not directly,
+; since the parameters that go here are not all obvious.
+;
+; Format:
+;   [section] ; section goes between []
+;   param=value ; assign values to parameters
+
+config_version=5
+
+[application]
+
+config/name="MiniJam-201-Support"
+config/features=PackedStringArray("4.5", "Forward Plus")
+config/icon="res://icon.svg"
+
+[file_customization]
+
+folder_colors={
+"res://Assets/": "red",
+"res://Entity/": "orange",
+"res://Scenes/": "green",
+"res://Screens/": "teal",
+"res://Singleton/": "blue",
+"res://UI/": "purple",
+"res://Utils/": "pink",
+"res://addons/": "yellow"
+}
