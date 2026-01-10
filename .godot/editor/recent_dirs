@@ -1,0 +1,4 @@
+res://Singleton/AudioManager
+res://Singleton/DialogueManager
+res://Singleton/GameManager
+res://Singleton/SceneManager

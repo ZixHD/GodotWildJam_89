@@ -14,6 +14,17 @@ config/name="MiniJam-201-Support"
 config/features=PackedStringArray("4.5", "Forward Plus")
 config/icon="res://icon.svg"
 
+[autoload]
+
+SceneManager="*res://Singleton/SceneManager/SceneManager.gd"
+GameManager="*res://Singleton/GameManager/GameManager.gd"
+DialogueManager="*res://Singleton/DialogueManager/DialogueManager.gd"
+AudioManager="*res://Singleton/AudioManager/AudioManager.gd"
+
+[editor_plugins]
+
+enabled=PackedStringArray("res://addons/AsepriteWizard/plugin.cfg")
+
 [file_customization]
 
 folder_colors={

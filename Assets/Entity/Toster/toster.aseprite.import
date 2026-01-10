@@ -1,0 +1,14 @@
+[remap]
+
+importer="aseprite_wizard.plugin.noop"
+type="PackedDataContainer"
+uid="uid://c5xp6ko1mmtvr"
+path="res://.godot/imported/toster.aseprite-a44a712a62cac7ec328cad5e856ab815.res"
+
+[deps]
+
+source_file="res://Assets/Entity/Toster/toster.aseprite"
+dest_files=["res://.godot/imported/toster.aseprite-a44a712a62cac7ec328cad5e856ab815.res"]
+
+[params]
+
